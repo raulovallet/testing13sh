@@ -2,3 +2,8 @@
 	path = raulovallet/rest-framework
 	url = git@github.com:raulovallet/rest-framework.git
 	branch = 13.0
+
+[submodule "raulovallet/addons"]
+	path = raulovallet/addons
+	url = git@github.com:raulovallet/addons.git
+	branch = 13.0
