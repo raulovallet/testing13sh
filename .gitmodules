@@ -7,3 +7,8 @@
 	path = raulovallet/addons
 	url = git@github.com:raulovallet/addons.git
 	branch = 13.0
+
+[submodule "OCA/connector"]
+	path = OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 13.0
